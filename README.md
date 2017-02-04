@@ -1,5 +1,8 @@
 # networking
 Source of blog article 'networking'
+
+https://appliedgo.net/networking/
+
 TCP/IP Networking
  Jan 25, 2017  ·  Tutorial  ·  14 minute read
  Distributed Computing
